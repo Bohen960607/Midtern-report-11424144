@@ -37,6 +37,8 @@ $ms^2 + cs + k = 0$
 
 $s = \frac{-c \pm \sqrt{c^2 - 4mk}}{2m}$
 
+$s = -\frac{c}{2m} \pm i\omega_d$
+
 ### 欠阻尼情況（常見）：
 
 $x_h(t) = e^{-\frac{c}{2m}t}\left(C_1 \cos(\omega_d t) + C_2 \sin(\omega_d t)\right)$
