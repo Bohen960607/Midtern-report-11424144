@@ -1,8 +1,8 @@
 # Midtern-report-11424144
 
 題目六、機械工程案例：質量-彈簧-阻尼系統
-▶ 工程問題：車輛避震器如何吸收震動？
-建模（牛頓第二定律）
+牛頓第二定律建模：
+
 m
 d
 2
@@ -24,7 +24,30 @@ F
 (
 t
 )
-	m：質量 
-	c：阻尼 
-	k：彈簧常數 
-▶當正弦力 F(t)=F_0 cos⁡ωt時求解x(t)=?
+
+m
+：質量 (Mass)
+c
+：阻尼 (Damping coefficient)
+k
+：彈簧常數 (Spring constant)
+F
+(
+t
+)
+=
+F
+0
+cos
+⁡
+(
+ω
+t
+)
+：正弦外力 (Harmonic forcing function)
+目標：求解位移 
+x
+(
+t
+)
+。
